@@ -1,2 +1,2 @@
 # weatherApp
-check today's weather
+check today's weather.
